@@ -3,7 +3,7 @@
 Task Diagram:
 ![Task Diagram][diagram]
 
-[diagram]: https://github.com/shahadot786/react-interview-test-mediusware/tree/master/src/assets/img/diagram/React_Task_Diagram.png "Task Flow Diagram"
+[diagram]: https://github.com/shahadot786/react-interview-test-mediusware/blob/master/src/assets/img/diagram/React_Task_Diagram.png "Task Flow Diagram"
 
 ---
 
