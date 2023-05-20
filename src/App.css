@@ -1,0 +1,24 @@
+.mContainer {
+  background-color: black;
+  width: 80vh;
+  height: 80vh;
+  justify-content: center;
+}
+.contactList {
+  cursor: pointer;
+  background-color: rgb(68 68 68);
+  text-align: center;
+  color: white;
+  border-radius: 5px;
+  display: inline-block;
+  padding: 8px;
+  margin: 8px 10px 8px 10px;
+  font-size: 14px;
+  font-weight: 500;
+}
+.contactList:hover {
+  background-color: cadetblue;
+}
+.font_size {
+  font-size: 10px;
+}

@@ -1,6 +1,21 @@
 # react-interview-test-mediusware
 
-# Problem-1
+Task Diagram:
+![Task Diagram][diagram]
+
+[diagram]: https://github.com/shahadot786/react-interview-test-mediusware/tree/master/src/assets/img/diagram/React_Task_Diagram.png "Task Flow Diagram"
+
+---
+
+## Documentation
+
+[Task Documentation](https://docs.google.com/document/d/1Y04001Lzr5ogyzg38WX9-6zfkHkLNnE-fn6rgdZu3Is/edit?usp=sharing "Documentation")
+
+---
+
+## Problem Descriptions
+
+### Problem-1
 
 You will see two input fields name and status, by clicking submit the name and status will be shown at the table below the form.
 By Clicking Active it will only show the data that has the status Active
@@ -11,7 +26,9 @@ By Clicking All if will show all the data and sort them by given order
 - Completed will show after active Tasks
 - All other status (i.e: Pending, Archive, etc) will show after Completed status Tasks
 
-# Problem-2
+---
+
+### Problem-2
 
 This whole problem requires you to use this API. So read this contact API doc carefully - (https://contact.mediusware.com/api-doc/).
 The main screen should have two buttons (All Contact and US Contact described below) centered vertically and horizontally with a margin between them.
@@ -40,3 +57,13 @@ Both modals should have three buttons:
   Modals A and B should have a search box to filter contacts (use API param). Contacts should be filtered while typing in a search input (with a small delay) and immediately on hitting the Enter key.
 
 - Lists of contacts should display only the first page (API param, page=1) after scrolling to the bottom of the modal load next page (infinity scroll).
+
+---
+
+### Test Result Video
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=nMcfwHfkqPU
+" target="_blank"><img src="http://img.youtube.com/vi/nMcfwHfkqPU/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
+---
