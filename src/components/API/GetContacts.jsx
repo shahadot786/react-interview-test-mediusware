@@ -1,10 +1,10 @@
 import axios from "axios";
-import React, { useState, useEffect } from "react";
+import React, { useEffect, useState } from "react";
 import "../../App.css";
 import DetailsModal from "../Modal/DetailsModal";
-import Search from "../Utils/Search";
 import Loader from "../Utils/Loader";
 import RenderContent from "../Utils/RenderContent";
+import Search from "../Utils/Search";
 
 export default function GetAllContacts({ even, country }) {
   const [contacts, setContacts] = useState([]);
